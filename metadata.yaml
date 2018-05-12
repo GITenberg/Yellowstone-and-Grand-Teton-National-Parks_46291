@@ -1,0 +1,26 @@
+_repo: Yellowstone-and-Grand-Teton-National-Parks_46291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46291-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Union Pacific Railroad Company
+    alias: Union Pacific Railroad and Telegraph Company
+    gutenberg_agent_id: '43701'
+    url: http://www.gutenberg.org/2009/agents/43701
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grand Teton National Park (Wyo.) -- Description and travel'
+- !lcc 'F721'
+- !lcsh 'Yellowstone National Park -- Description and travel'
+title: Yellowstone and Grand Teton National Parks
+url: http://www.gutenberg.org/ebooks/46291
